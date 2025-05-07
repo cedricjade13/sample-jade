@@ -3,8 +3,6 @@
 include_once "../templates/header.php";
 ?>
 
-
-
   <main id="main" class="main">
 
     <div class="pagetitle">
@@ -651,6 +649,10 @@ include_once "../templates/header.php";
       </div>
     </section>
 
+
+
+
+  
   </main><!-- End #main -->
 
   <?php
